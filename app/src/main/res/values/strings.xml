@@ -1,0 +1,68 @@
+<!--
+  Copyright 2018 Google Inc.
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  -->
+<resources>
+    <string name="app_name">Material Me!</string>
+    <string name="title_placeholder">Title</string>
+    <string name="news_placeholder">News</string>
+    <string name="sports_info_placeholder">Here is some news</string>
+    <string name="image_of_a_sport">Image of a sport</string>
+
+    <string-array name="sports_titles">
+        <item>Baseball</item>
+        <item>Badminton</item>
+        <item>Basketball</item>
+        <item>Bowling</item>
+        <item>Cycling</item>
+        <item>Golf</item>
+        <item>Running</item>
+        <item>Soccer</item>
+        <item>Swimming</item>
+        <item>Table Tennis</item>
+        <item>Tennis</item>
+    </string-array>
+
+    <string-array name="sports_info">
+        <item>Here is some Baseball news!</item>
+        <item>Here is some Badminton news!</item>
+        <item>Here is some Basketball news!</item>
+        <item>Here is some Bowling news!</item>
+        <item>Here is some Cycling news!</item>
+        <item>Here is some Golf news!</item>
+        <item>Here is some Running news!</item>
+        <item>Here is some Soccer news!</item>
+        <item>Here is some Swimming news!</item>
+        <item>Here is some Table Tennis news!</item>
+        <item>Here is some Tennis news!</item>
+    </string-array>
+
+    <array name="sports_images">
+        <item>@drawable/img_baseball</item>
+        <item>@drawable/img_badminton</item>
+        <item>@drawable/img_basketball</item>
+        <item>@drawable/img_bowling</item>
+        <item>@drawable/img_cycling</item>
+        <item>@drawable/img_golf</item>
+        <item>@drawable/img_running</item>
+        <item>@drawable/img_soccer</item>
+        <item>@drawable/img_swimming</item>
+        <item>@drawable/img_tabletennis</item>
+        <item>@drawable/img_tennis</item>
+    </array>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam posuere ipsum tortor, quis sollicitudin ipsum eleifend eget. Nunc ullamcorper libero eu diam euismod volutpat. Donec venenatis consectetur augue, sit amet ullamcorper nulla aliquet in. Quisque quam turpis, dapibus vitae justo quis, porttitor ullamcorper ex. Curabitur felis ex, ornare id commodo vel, facilisis nec nisl. Sed lacinia nisi nunc, at iaculis urna cursus ut. In ultrices efficitur sollicitudin. Etiam non lobortis magna. Cras in arcu vitae ipsum pretium scelerisque. Etiam id diam et erat posuere ultrices et eu lorem. Nulla sodales tincidunt aliquet. Morbi ornare quis ligula nec lacinia. Mauris dictum sodales nisi, ac tempor orci ultrices tincidunt. Sed tincidunt ex eget magna sagittis finibus. Aliquam fringilla ipsum ipsum, quis ultricies sem pulvinar id. Maecenas dapibus nec nunc a ultrices. Pellentesque sit amet sem nisl. Nam in semper dolor, et placerat dui. Sed tincidunt vulputate lorem, et hendrerit neque porta eget. Sed purus ex, iaculis in varius id, venenatis at ex. Nunc pretium, nibh a euismod ultrices, dui urna placerat lorem, in vestibulum sem ante in purus. Duis orci arcu, tincidunt quis libero sit amet, rutrum sagittis leo. Proin dapibus nec odio a convallis. In ut augue consectetur, molestie ipsum at, facilisis nibh. Ut id condimentum ex. Nunc tincidunt rhoncus nibh quis suscipit. Vestibulum faucibus est vitae nisl sollicitudin feugiat. Suspendisse et leo et tortor iaculis tempus. Donec nec dapibus massa. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in blandit magna, at bibendum purus. Phasellus vitae justo vitae tellus hendrerit tincidunt eget quis risus. Praesent gravida, velit quis efficitur porttitor, turpis lacus posuere augue, sit amet convallis libero felis vel urna. Donec eget magna eu odio pretium tincidunt id nec mauris. Donec aliquam ante tortor, congue consequat ante pulvinar eu. Mauris cursus dolor at ligula elementum, a congue odio ullamcorper. Integer maximus ac turpis eu tempor. Aliquam a posuere risus, eu lobortis tortor. Vestibulum malesuada lacus sed porttitor faucibus. Nam vitae dui a tellus sollicitudin lacinia quis at purus. Proin sit amet molestie est. Pellentesque venenatis sapien sit amet odio ultrices iaculis. Fusce ultricies id velit sed ornare. Vestibulum enim nibh, maximus sit amet elit eu, lobortis mattis purus. Morbi dui ex, euismod ac gravida semper, rhoncus ac odio. Phasellus diam est, venenatis et imperdiet at, rhoncus et libero. Vestibulum quam lectus, pretium nec accumsan non, mattis nec ante. Nulla hendrerit vehicula neque vel tincidunt. Quisque fringilla neque nec velit molestie, sit amet venenatis sapien faucibus. Etiam neque mauris, eleifend a placerat ac, mattis in est. Duis pulvinar velit non dolor vestibulum, ac rhoncus nisl tempus. Quisque feugiat tellus at dignissim suscipit. Curabitur at tempor ipsum. Vestibulum ut justo at mauris tempus ornare ut id magna. Fusce a efficitur velit. Integer vel fringilla lacus. Aliquam egestas risus non neque accumsan, vel elementum ipsum aliquam. Praesent laoreet in risus semper efficitur. Nullam molestie efficitur leo sed ullamcorper. Pellentesque ac est vulputate, gravida turpis et, auctor tellus. Suspendisse id velit a erat vulputate posuere sagittis in ante. Mauris enim erat, fringilla eget rutrum a, pharetra vel dui. Aenean ultrices augue vel leo tincidunt tincidunt. Vivamus eu diam et risus pellentesque accumsan.</string>
+    <string name="reset">it resets the recycleview</string>
+
+</resources>
