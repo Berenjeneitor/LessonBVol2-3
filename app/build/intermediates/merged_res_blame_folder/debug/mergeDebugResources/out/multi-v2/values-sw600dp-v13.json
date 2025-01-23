@@ -19,13 +19,30 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\dciri\\OneDrive\\Documentos\\Android\\MaterialMe\\MaterialMe-Starter\\app\\src\\main\\res\\values-sw600dp\\styles.xml",
+                    "from": {
+                        "startLines": "6,7,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "221,303,59",
+                        "endLines": "6,7,5",
+                        "endColumns": "80,81,12",
+                        "endOffsets": "297,380,215"
+                    },
+                    "to": {
+                        "startLines": "23,24,25",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "1401,1481,1562",
+                        "endLines": "23,24,27",
+                        "endColumns": "79,80,12",
+                        "endOffsets": "1476,1557,1716"
+                    }
+                },
+                {
                     "source": "C:\\Users\\dciri\\OneDrive\\Documentos\\Android\\MaterialMe\\MaterialMe-Starter\\app\\src\\main\\res\\values-sw600dp\\integers.xml",
                     "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "57",
-                        "endColumns": "49",
-                        "endOffsets": "102"
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
                     },
                     "to": {
                         "startLines": "22",
@@ -43,12 +60,12 @@
                         "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
                     },
                     "to": {
-                        "startLines": "10,11,12,13,14,15,16,18,19,20,21,23",
+                        "startLines": "10,11,12,13,14,15,16,18,19,20,21,28",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "611,671,741,812,884,942,1000,1109,1173,1229,1288,1401",
-                        "endLines": "10,11,12,13,14,15,17,18,19,20,21,26",
+                        "startOffsets": "611,671,741,812,884,942,1000,1109,1173,1229,1288,1721",
+                        "endLines": "10,11,12,13,14,15,17,18,19,20,21,31",
                         "endColumns": "59,69,70,71,57,57,10,63,55,58,62,10",
-                        "endOffsets": "666,736,807,879,937,995,1104,1168,1224,1283,1346,1568"
+                        "endOffsets": "666,736,807,879,937,995,1104,1168,1224,1283,1346,1888"
                     }
                 }
             ]

@@ -36,7 +36,7 @@
             android:layout_marginTop="0dp"
             android:padding="16dp"
             android:text="@string/news_placeholder"
-            android:textColor="?android:textColorSecondary" />
+            android:textAppearance="@style/SportsDetailText"/>
 
         <TextView
             android:id="@+id/subTitleDetail"
@@ -44,6 +44,7 @@
             android:layout_height="wrap_content"
             android:layout_below="@id/newsTitleDetail"
             android:padding="16dp"
+            android:textAppearance="@style/SportsDetailText"
             android:text="@string/lorem_ipsum" />
     </RelativeLayout>
 </ScrollView>

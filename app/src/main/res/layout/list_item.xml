@@ -29,7 +29,10 @@
             android:padding="8dp"
             android:text="@string/title_placeholder"
             android:layout_alignBottom="@id/sportsImage"
-            android:theme="@style/ThemeOverlay.AppCompat.Dark"/>
+            android:theme="@style/ThemeOverlay.AppCompat.Dark"
+            android:textAppearance="@style/SportsTitle"
+            android:translationZ="100dp"
+            />
 
         <ImageView
             android:id="@+id/sportsImage"
@@ -42,11 +45,13 @@
             android:id="@+id/newsTitle"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_below="@id/sportsImage"
+            android:layout_below="@id/title"
             android:layout_marginTop="0dp"
             android:padding="8dp"
+            android:textColor="?android:textColorSecondary"
             android:text="@string/news_placeholder"
-            android:textColor="?android:textColorSecondary" />
+            android:textAppearance="@style/SportsDetailText"
+            />
 
         <TextView
             android:id="@+id/subTitle"
